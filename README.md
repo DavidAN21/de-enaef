@@ -11,5 +11,7 @@ This project uses GitHub Actions to run a simple CI workflow:
 - Checkout repository
 - Setup Node.js
 - Run a simple echo command
-eeeeee
-mas gacell
+
+## Kontributor
+Nama: David Andrey Nugroho (2340506053)
+SS
