@@ -14,4 +14,4 @@ This project uses GitHub Actions to run a simple CI workflow:
 
 ## Kontributor
 Nama: David Andrey Nugroho (2340506053)
-SS
+hsdjhdu
